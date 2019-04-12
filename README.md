@@ -1,4 +1,4 @@
-#Emoji Extractor
+# Emoji Extractor
 
 This repo includes the following:
 * `Proxi Code Challenge.ipynb` is the notebook containing code and explanations that connect to solving the problem.
